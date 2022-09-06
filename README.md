@@ -25,4 +25,4 @@ Tài khoản Admin: admin@gmail.com / 123456789
 **Package sử dụng :**
 - Laravel Jetstream (tạo, đăng nhập, xuất tài khoản người dùng)
 - Dompdf (format in tạo hóa đơn hàng)
-- 
+- bumbummen99/shoppingcart (giỏ hàng)
