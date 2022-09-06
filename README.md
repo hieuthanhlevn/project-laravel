@@ -4,7 +4,7 @@ Tài khoản Admin: admin@gmail.com / 123456789
 
 **Các chức năng của website**
 - Về khách hàng:
-    + Tạo tài khoản, đăng nhập, đăng xuất
+    + Tạo tài khoản, đăng nhập, đăng xuất, quên mật khẩu
     + Tìm kiếm sản phẩm
     + Thêm sản phẩm vào giỏ hàng, hoặc yêu thích
     + Đặt hàng
@@ -25,3 +25,4 @@ Tài khoản Admin: admin@gmail.com / 123456789
 **Package sử dụng :**
 - Laravel Jetstream (tạo, đăng nhập, xuất tài khoản người dùng)
 - Dompdf (tạo in format hóa đơn hàng)
+- 
