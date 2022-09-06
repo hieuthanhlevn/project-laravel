@@ -24,5 +24,5 @@ Tài khoản Admin: admin@gmail.com / 123456789
 
 **Package sử dụng :**
 - Laravel Jetstream (tạo, đăng nhập, xuất tài khoản người dùng)
-- Dompdf (tạo in format hóa đơn hàng)
+- Dompdf (format in tạo hóa đơn hàng)
 - 
