@@ -5,11 +5,12 @@ Tài khoản Admin: admin@gmail.com / 123456789
 **Các chức năng của website**
 - Về khách hàng:
     + Tạo tài khoản, đăng nhập, đăng xuất, quên mật khẩu
-    + Tìm kiếm sản phẩm
+    + Tìm kiếm sản phẩm (xem sản phẩm theo danh mục)
     + Thêm sản phẩm vào giỏ hàng, hoặc yêu thích
     + Đặt hàng
     + Thanh toán
     + Theo dõi tình trạng đơn hàng
+    + Tải hoá đơn hàng
 - Về quản trị:
     + Quản lý sản phẩm
     + Quản lý đơn hàng (tình trạng đơn hàng, đổi trả)
