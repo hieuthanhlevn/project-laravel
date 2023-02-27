@@ -1,7 +1,6 @@
 # Xây dựng website bán hàng thời trang bằng PHP framework Laravel
 
 Tài khoản Admin: admin@gmail.com / 123456789
-Tài khoản Admin: admin@gmail.com / 123456789
 
 **Các chức năng của website**
 - Về khách hàng:
@@ -29,6 +28,10 @@ Tài khoản Admin: admin@gmail.com / 123456789
 - Laravel Jetstream (tạo, đăng nhập, xuất tài khoản người dùng)
 - Dompdf (format in tạo hóa đơn hàng)
 - bumbummen99/shoppingcart (giỏ hàng)
+
+**LINK GIỚI THIỆU WEBSITE:** https://www.youtube.com/watch?v=RZ-g7wzXlaY
+
+
 
 **MỘT SỐ HÌNH ẢNH VỀ WEBSITE**
 **HOME PAGE**
