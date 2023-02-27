@@ -1,6 +1,7 @@
 # Xây dựng website bán hàng thời trang bằng PHP framework Laravel
 
 Tài khoản Admin: admin@gmail.com / 123456789
+Link giới thiệu website: https://www.youtube.com/watch?v=RZ-g7wzXlaY
 
 **Các chức năng của website**
 - Về khách hàng:
